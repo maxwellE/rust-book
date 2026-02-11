@@ -1,5 +1,5 @@
 [workspace]
-members = ["packages/tools"]
+members = ["exercises/ch4","packages/tools"]
 default-members = ["packages/tools"]
 resolver = "2"
 exclude = [
