@@ -1,5 +1,5 @@
 [workspace]
-members = ["exercises/ch4", "exercises/ch5/rectangles","packages/tools"]
+members = ["exercises/ch4", "exercises/ch5/challenges", "exercises/ch5/rectangles","packages/tools"]
 default-members = ["packages/tools"]
 resolver = "2"
 exclude = [
